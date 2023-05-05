@@ -1,0 +1,21 @@
+.Header {
+    display:flex;
+    flex-direction: row;
+    width:100%;
+    background-color: slategrey;
+    height:80px;
+}
+.PersonContainer {
+    display:flex;
+    flex-direction:column;
+    margin-right:20px;
+    width:100%;
+    align-items: flex-end;
+    margin-top:10px;
+}
+ 
+.MenuContainer {
+    display: flex;
+    justify-content: flex-start;
+    
+}

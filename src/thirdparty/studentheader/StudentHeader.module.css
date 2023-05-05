@@ -1,0 +1,236 @@
+@media screen and (min-width:800px) and (max-width:1024px) {
+    
+    .StudentHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 15px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:60px;
+        background-color: slategrey;
+    }
+    .Titles {
+        padding-left: 75px;
+        margin-left:0px;
+    }
+    .TopHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:190px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color:#ccc ;
+        padding-top:5px;
+    }
+    .SearchContainer {
+        display:flex; 
+        width:80%;
+        margin-left:20px;
+        margin-top:132px;
+    }
+}
+@media screen and (min-width:1025px) and (max-width:1280px) {
+    .ButtonPosn {
+        display: flex;
+        flex-direction: column;
+    }
+    .ButtonPosnContainer {
+        display:flex;
+        flex-direction:column;
+        margin-right:20px;
+        width:100%;
+        align-items: flex-end;
+    }
+    .StudentHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 18px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:60px;
+        background-color: slategrey;
+    }
+    .Titles {
+        padding-left: 85px;
+        padding-top:15px;
+        font-family: 'Roboto Condensed', sans-serif;
+    }
+    .TopHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color:#ccc ;
+        padding-top:5px;
+        height:190px;
+    }
+    .SearchContainer {
+        display:flex; 
+        width:80%;
+        margin-left:20px;
+        margin-top:132px;
+       
+    }
+}
+@media screen and (min-width:1281px) and (max-width:1366px) {
+    .ButtonPosition {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .ButtonPosnContainer {
+        display:flex;
+        flex-direction:column;
+        margin-right:20px;
+        width:100%;
+        align-items: flex-end;
+    }
+    .StudentHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 18px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:60px;
+        background-color: slategrey;
+    }
+    .TopHeader {
+        display:flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:190px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color:#ccc ;
+        padding-top:5px;
+    }
+    .Titles {
+        padding-left: 105px;
+        padding-top:15px;
+    }
+    .SearchContainer {
+        display:flex; 
+        width:80%;
+        margin-left:20px;
+        margin-top:132px;
+    }
+}
+@media screen and (min-width:1367px) and (max-width:1619px) {
+    .ButtonPosition {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .ButtonPosnContainer {
+        display:flex;
+        flex-direction:column;
+        margin-right:20px;
+        width:100%;
+        align-items: flex-end;
+    }
+    .StudentHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 18px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:60px;
+        background-color: slategrey;
+        padding-top:15px;
+    }
+    .TopHeader {
+        display:flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:190px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color:#ccc ;
+        padding-top:5px;
+    }
+    .Titles {
+        padding-left: 125px;
+    }
+    .SearchContainer {
+        display:flex; 
+        width:80%;
+        margin-left:10px;
+        margin-top:123px; 
+    }
+}
+@media screen and (min-width:1620px) and (max-width:1950px) {
+    .ButtonPosition {
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .ButtonPosnContainer {
+        display:flex;
+        flex-direction:column;
+        margin-right:20px;
+        width:100%;
+        margin-top: 40px;
+        align-items: flex-end;
+    }
+    .StudentHeader {
+        display:Flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 18px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:60px;
+        background-color: slategrey;
+        padding-top:15px;
+    }
+    .TopHeader {
+        display:flex;
+        flex-direction: row;
+        width:70%;
+        font-size: 20px;
+        color:#fff;
+        font-family: 'Roboto Condensed', sans-serif;
+        margin:0px auto;
+        height:190px;
+        border-top-left-radius: 15px;
+        border-top-right-radius: 15px;
+        background-color:#ccc ;
+        padding-top:5px;
+    }
+    .Titles {
+        padding-left: 170px;
+    }
+    .SearchContainer {
+        display:flex; 
+        width:80%;
+        margin-left:10px;
+        margin-top:123px; 
+    }
+}
